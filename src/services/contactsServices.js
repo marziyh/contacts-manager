@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const SERVER_URL = "http://localhost:9001"
+const SERVER_URL = "https://marziyh.github.io/server-contacts-manager/db.json"
 
 
 //@desc Get all Contacts
