@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/marziyh/contacts-manager/static/css/main.aab40ed5.css",
+    "main.js": "/marziyh/contacts-manager/static/js/main.c260f856.js",
+    "static/media/Spinner.gif": "/marziyh/contacts-manager/static/media/Spinner.5b35cef0ce49e2af8525.gif",
+    "static/media/no-found.gif": "/marziyh/contacts-manager/static/media/no-found.8a3fe9fd54d21c85d260.gif",
+    "static/media/man-taking-note.png": "/marziyh/contacts-manager/static/media/man-taking-note.578e1679689f39584d15.png",
+    "index.html": "/marziyh/contacts-manager/index.html",
+    "main.aab40ed5.css.map": "/marziyh/contacts-manager/static/css/main.aab40ed5.css.map",
+    "main.c260f856.js.map": "/marziyh/contacts-manager/static/js/main.c260f856.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aab40ed5.css",
+    "static/js/main.c260f856.js"
+  ]
+}
